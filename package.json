@@ -1,0 +1,23 @@
+{
+  "name": "simple-flakeid-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "simple-flakeid": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhupengfeivip/simple-flakeId-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhupengfeivip/simple-flakeId-demo/issues"
+  },
+  "homepage": "https://github.com/zhupengfeivip/simple-flakeId-demo#readme"
+}
