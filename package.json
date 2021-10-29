@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "simple-flakeid": "0.0.2"
+    "simple-flakeid": "0.0.4"
   },
   "devDependencies": {},
   "scripts": {
